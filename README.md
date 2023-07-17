@@ -3,11 +3,11 @@
 
 
 - 🔭 I’m currently working on  na  área da construção civil , exercendo função de Eletricista Montador
-- 🌱 No momento estou estudando HTML5, CSS3, PYTHON.
+- 🌱 No momento estou estudando LOW CODE,NO CODE.
 - 👯 Tenho enterece em evoluir profissionalmente como Desenvolvedor.
 
 
-Sou Marciel.atualmente tenho 33 anose  e estou em transição de carreira.
+Sou Marciel.atualmente tenho 35 anos  e estou em transição de carreira.
 Meus últimos anos foram trabalhando na área de Construção Civil como Eletricista Montador. 
 Sempre tive curiosidade e vontade de entrar para a área de tecnologia, e vi que o momento atual em que me encontro é o melhor para ir a fundo nesse meu desejo antigo, que é o de me tornar Desenvolvedor.
 
