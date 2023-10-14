@@ -1,9 +1,9 @@
 ### Olá  eu sou Marciel 👋
-![Profile views](https://gpvc.arturio.dev/Marciel33)
+
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marciel-de-oliveira-amores-811051232/)
-![Snake animation](https://github.com/Marciel33/Marciel33/blob/output-contribution-grid-snake.svg)
+
 
 
 ![Marciel GitHub stats](https://github-readme-stats.vercel.app/api?username=Marciel33&show_icons=true&theme=radical)
@@ -33,7 +33,5 @@ Sempre tive curiosidade e vontade de entrar para a área de tecnologia, e vi que
 Sou uma pessoa transparente e busco sempre me aperfeiçoar, tenho a determinação e foco nos meus objetivos e sei que este novo passo será um dos mais importantes de minha vida, tenho em mente os meus passos e onde quero chega
 
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>
-<p align="center"><img align="center" src=https://profile-counter.glitch.me/{marciel33}/count.svg" /></p>
+
 
